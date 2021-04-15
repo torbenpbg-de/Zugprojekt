@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Lokomotive
+comment0.text=\n\ @author\ Torben\ Piepenburg\ &\ Nick\ Wessel\n\ @version\ v4.14.0\n
+comment1.params=pH\ pV
+comment1.target=Lokomotive(int,\ int)
+comment2.params=
+comment2.target=void\ zeichne()
+numComments=3

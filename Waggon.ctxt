@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Waggon
+comment0.text=\n\ @author\ Torben\ Piepenburg\ &\ Nick\ Wessel\n\ @version\ v4.14.0\n
+comment1.params=pH\ pV
+comment1.target=Waggon(int,\ int)
+comment2.params=
+comment2.target=void\ zeichne()
+comment3.params=
+comment3.target=sum.kern.Stift\ stift()
+comment4.params=
+comment4.target=int\ laenge()
+comment5.params=pLaenge
+comment5.target=void\ setzeLaenge(int)
+comment6.params=
+comment6.target=void\ gibFrei()
+numComments=7
